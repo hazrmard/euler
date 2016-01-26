@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+void main(int argc, char *argv[])
 {
-	printf("Hello World\n");
+	printf("Hello World %s\n",argv[1]);
 }
