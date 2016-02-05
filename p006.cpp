@@ -1,5 +1,4 @@
 // Problem 6
-// a^2 - b^2 = (a+b)(a-b)
 
 #include <iostream>
 
