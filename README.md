@@ -10,3 +10,4 @@ Mainly attempted in ```C++```.
 |p003.cpp|[Largest prime factor](http://projecteuler.net/problem=3)|
 |p004.cpp|[Largest palindrome](http://projecteuler.net/problem=4)|
 |p005.cpp|[Smallest multiple](http://projecteuler.net/problem=5)|
+|p006.cpp|[Sum square difference](http://projecteuler.net/problem=6)|
