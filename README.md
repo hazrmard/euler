@@ -9,3 +9,4 @@ Mainly attempted in ```C++```.
 |p002.cpp|[Even Fibonacci numbers](http://projecteuler.net/problem=2)|
 |p003.cpp|[Largest prime factor](http://projecteuler.net/problem=3)|
 |p004.cpp|[Largest palindrome](http://projecteuler.net/problem=4)|
+|p005.cpp|[Smallest multiple](http://projecteuler.net/problem=5)|
