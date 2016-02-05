@@ -8,3 +8,4 @@ Mainly attempted in ```C++```.
 |p001.cpp|[Multiples of 3 and 5](http://projecteuler.net/problem=1)|
 |p002.cpp|[Even Fibonacci numbers](http://projecteuler.net/problem=2)|
 |p003.cpp|[Largest prime factor](http://projecteuler.net/problem=3)|
+|p004.cpp|[Largest palindrome](http://projecteuler.net/problem=4)|
