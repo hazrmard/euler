@@ -11,3 +11,4 @@ Mainly attempted in ```C++```.
 |p004.cpp|[Largest palindrome](http://projecteuler.net/problem=4)|
 |p005.cpp|[Smallest multiple](http://projecteuler.net/problem=5)|
 |p006.cpp|[Sum square difference](http://projecteuler.net/problem=6)|
+|p007.cpp|[10001st prime](http://projecteuler.net/problem=7)|
