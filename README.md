@@ -14,4 +14,4 @@ Mainly attempted in ```C++```.
 |p007.cpp|[10001st prime](http://projecteuler.net/problem=7)|
 |p008.cpp|[Largest product in series](http://projecteuler.net/problem=8)|
 |p009.cpp|[Special pythagorean triplet](http://projecteuler.net/problem=9)|
-
+|p010.cpp|[Summation of primes](http://projecteuler.net/problem=10)|
