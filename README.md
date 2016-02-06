@@ -13,3 +13,5 @@ Mainly attempted in ```C++```.
 |p006.cpp|[Sum square difference](http://projecteuler.net/problem=6)|
 |p007.cpp|[10001st prime](http://projecteuler.net/problem=7)|
 |p008.cpp|[Largest product in series](http://projecteuler.net/problem=8)|
+|p009.cpp|[Special pythagorean triplet](http://projecteuler.net/problem=9)|
+
