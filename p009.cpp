@@ -14,7 +14,7 @@ using namespace std;
 int main() {
 	cout << solution() << endl;
 	return 0;
-}	
+}
 
 long solution() {
 	for (int b=2; b < 1000; b++) {
@@ -24,4 +24,5 @@ long solution() {
 			}
 		}
 	}
+	return -1l;
 }
