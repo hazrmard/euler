@@ -12,8 +12,3 @@ p%: p%.cpp
 
 clean:
 	rm -r bin
-
-#p%.cpp: p%.cpp
-#	echo "Second pattern captured"
-#	if [ -d ./bin ]; then echo; else mkdir bin; fi
-#	$(CC) $(CFLAGS) p$*.cpp -o $(BIN)/p$*
