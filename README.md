@@ -2,7 +2,7 @@
 My attempts at problems on [Project Euler](http://projecteuler.net).
 Mainly attempted in ```C++```.
 
-##Solutions
+## Solutions
 |File|Problem|
 |---|---|
 |p001.cpp|[Multiples of 3 and 5](http://projecteuler.net/problem=1)|
